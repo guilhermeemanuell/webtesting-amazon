@@ -1,0 +1,147 @@
+{"level":30,"time":"2023-02-27T18:56:32.527Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Listening on 53472"}
+{"level":30,"time":"2023-02-27T18:56:32.648Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:32.649Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:32.651Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:32.651Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:32.654Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2023-02-27T18:56:33.602Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method newBrowser"}
+{"level":30,"time":"2023-02-27T18:56:33.606Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method newContext"}
+{"level":30,"time":"2023-02-27T18:56:33.606Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-02-27T18:56:33.606Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Trace file: "}
+{"level":30,"time":"2023-02-27T18:56:33.616Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changed active context"}
+{"level":30,"time":"2023-02-27T18:56:33.616Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method newContext"}
+{"level":30,"time":"2023-02-27T18:56:33.620Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-02-27T18:56:33.620Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-02-27T18:56:33.744Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Video path: undefined"}
+{"level":30,"time":"2023-02-27T18:56:33.744Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changed active page"}
+{"level":30,"time":"2023-02-27T18:56:36.228Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method newPage"}
+{"level":30,"time":"2023-02-27T18:56:36.231Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:36.231Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //a[contains(@data-csa-c-content-id,'nav_cs_electronics')] in page."}
+{"level":30,"time":"2023-02-27T18:56:36.289Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:36.293Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-02-27T18:56:36.293Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //input[contains(@type,'text')] in page."}
+{"level":30,"time":"2023-02-27T18:56:36.335Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method fillText"}
+{"level":30,"time":"2023-02-27T18:56:36.341Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method click"}
+{"level":30,"time":"2023-02-27T18:56:36.341Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //input[contains(@type,'submit')] in page."}
+{"level":30,"time":"2023-02-27T18:56:36.798Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method click"}
+{"level":30,"time":"2023-02-27T18:56:36.802Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:36.802Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //span[@class='a-color-state a-text-bold'][contains(.,'Controle Xbox Series S')] in page."}
+{"level":30,"time":"2023-02-27T18:56:37.136Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:37.139Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method click"}
+{"level":30,"time":"2023-02-27T18:56:37.139Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //span[@class='a-size-base-plus a-color-base a-text-normal'][contains(.,'Controle sem Fio Xbox - Robot Branco')] in page."}
+{"level":30,"time":"2023-02-27T18:56:37.906Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method click"}
+{"level":30,"time":"2023-02-27T18:56:37.910Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:37.910Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //input[contains(@name,'submit.add-to-cart')] in page."}
+{"level":30,"time":"2023-02-27T18:56:39.250Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:39.252Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method click"}
+{"level":30,"time":"2023-02-27T18:56:39.252Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //input[contains(@name,'submit.add-to-cart')] in page."}
+{"level":30,"time":"2023-02-27T18:56:39.880Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method click"}
+{"level":30,"time":"2023-02-27T18:56:39.884Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:39.884Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //a[contains(@data-csa-c-type,'button')] in page."}
+{"level":30,"time":"2023-02-27T18:56:40.836Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:40.839Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method click"}
+{"level":30,"time":"2023-02-27T18:56:40.840Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //a[contains(@data-csa-c-type,'button')] in page."}
+{"level":30,"time":"2023-02-27T18:56:41.368Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method click"}
+{"level":30,"time":"2023-02-27T18:56:41.371Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:41.371Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //span[@class='a-truncate-cut'][contains(.,'Controle sem Fio Xbox - Robot Branco')] in page."}
+{"level":30,"time":"2023-02-27T18:56:42.204Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:44.219Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-02-27T18:56:44.353Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-02-27T18:56:44.357Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:44.370Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:44.373Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:44.382Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:44.383Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changed active context"}
+{"level":30,"time":"2023-02-27T18:56:44.383Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changing current active page"}
+{"level":30,"time":"2023-02-27T18:56:44.383Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changed active page"}
+{"level":30,"time":"2023-02-27T18:56:44.387Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:44.434Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:44.436Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-02-27T18:56:44.436Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-02-27T18:56:44.437Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-02-27T18:56:44.437Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-02-27T18:56:44.438Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:44.440Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:44.441Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changed active context"}
+{"level":30,"time":"2023-02-27T18:56:44.441Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changing current active page"}
+{"level":30,"time":"2023-02-27T18:56:44.441Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changed active page"}
+{"level":30,"time":"2023-02-27T18:56:44.442Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-02-27T18:56:44.479Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Removed page=13a58576-b7bf-4924-8ab4-e23a73560eb2 from context=25e5d5a3-b98e-427e-a32b-cd692fd8c15a page stack"}
+{"level":30,"time":"2023-02-27T18:56:44.516Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-02-27T18:56:44.523Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:44.523Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:44.528Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-02-27T18:56:44.528Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-02-27T18:56:44.532Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method newContext"}
+{"level":30,"time":"2023-02-27T18:56:44.532Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-02-27T18:56:44.532Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Trace file: "}
+{"level":30,"time":"2023-02-27T18:56:44.553Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changed active context"}
+{"level":30,"time":"2023-02-27T18:56:44.553Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method newContext"}
+{"level":30,"time":"2023-02-27T18:56:44.557Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method newPage"}
+{"level":30,"time":"2023-02-27T18:56:44.557Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2023-02-27T18:56:44.676Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Video path: undefined"}
+{"level":30,"time":"2023-02-27T18:56:44.676Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changed active page"}
+{"level":30,"time":"2023-02-27T18:56:47.825Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method newPage"}
+{"level":30,"time":"2023-02-27T18:56:47.828Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:47.828Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //a[contains(@data-csa-c-content-id,'nav_cs_electronics')] in page."}
+{"level":30,"time":"2023-02-27T18:56:47.882Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:47.884Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method fillText"}
+{"level":30,"time":"2023-02-27T18:56:47.884Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //input[contains(@type,'text')] in page."}
+{"level":30,"time":"2023-02-27T18:56:47.921Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method fillText"}
+{"level":30,"time":"2023-02-27T18:56:47.924Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method click"}
+{"level":30,"time":"2023-02-27T18:56:47.924Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //input[contains(@type,'submit')] in page."}
+{"level":30,"time":"2023-02-27T18:56:48.342Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method click"}
+{"level":30,"time":"2023-02-27T18:56:48.345Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:48.345Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //span[@class='a-color-state a-text-bold'][contains(.,'Controle Xbox Series S')] in page."}
+{"level":30,"time":"2023-02-27T18:56:48.665Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:48.668Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method click"}
+{"level":30,"time":"2023-02-27T18:56:48.668Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //span[@class='a-size-base-plus a-color-base a-text-normal'][contains(.,'Controle sem Fio Xbox - Robot Branco')] in page."}
+{"level":30,"time":"2023-02-27T18:56:49.444Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method click"}
+{"level":30,"time":"2023-02-27T18:56:49.447Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:49.447Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //input[contains(@name,'submit.add-to-cart')] in page."}
+{"level":30,"time":"2023-02-27T18:56:50.342Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:50.344Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method click"}
+{"level":30,"time":"2023-02-27T18:56:50.344Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //input[contains(@name,'submit.add-to-cart')] in page."}
+{"level":30,"time":"2023-02-27T18:56:50.968Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method click"}
+{"level":30,"time":"2023-02-27T18:56:50.971Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:50.971Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //a[contains(@data-csa-c-type,'button')] in page."}
+{"level":30,"time":"2023-02-27T18:56:51.345Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:51.347Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method click"}
+{"level":30,"time":"2023-02-27T18:56:51.347Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //a[contains(@data-csa-c-type,'button')] in page."}
+{"level":30,"time":"2023-02-27T18:56:51.998Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method click"}
+{"level":30,"time":"2023-02-27T18:56:52.000Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:52.000Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //span[@class='a-truncate-cut'][contains(.,'Controle sem Fio Xbox - Robot Branco')] in page."}
+{"level":30,"time":"2023-02-27T18:56:52.828Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:52.830Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method click"}
+{"level":30,"time":"2023-02-27T18:56:52.830Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //input[@value='Excluir'] in page."}
+{"level":30,"time":"2023-02-27T18:56:52.920Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method click"}
+{"level":30,"time":"2023-02-27T18:56:52.923Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:52.923Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Strict mode is enabled, find Locator with //div[contains(@data-action,'delete')] in page."}
+{"level":30,"time":"2023-02-27T18:56:52.931Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2023-02-27T18:56:54.949Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2023-02-27T18:56:55.082Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2023-02-27T18:56:55.086Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:55.105Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:55.106Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:55.108Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:55.109Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changed active context"}
+{"level":30,"time":"2023-02-27T18:56:55.109Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changing current active page"}
+{"level":30,"time":"2023-02-27T18:56:55.109Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changed active page"}
+{"level":30,"time":"2023-02-27T18:56:55.112Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:55.115Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:55.116Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-02-27T18:56:55.116Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-02-27T18:56:55.117Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2023-02-27T18:56:55.117Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2023-02-27T18:56:55.119Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:55.120Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:55.122Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changed active context"}
+{"level":30,"time":"2023-02-27T18:56:55.122Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changing current active page"}
+{"level":30,"time":"2023-02-27T18:56:55.122Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Changed active page"}
+{"level":30,"time":"2023-02-27T18:56:55.123Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method closeContext"}
+{"level":30,"time":"2023-02-27T18:56:55.160Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Removed page=6001b80e-b09f-4654-ba56-8c77c12bf748 from context=acb028df-4bd3-4455-8557-e1c095148149 page stack"}
+{"level":30,"time":"2023-02-27T18:56:55.192Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method closeContext"}
+{"level":30,"time":"2023-02-27T18:56:55.200Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:55.200Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2023-02-27T18:56:55.237Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2023-02-27T18:56:55.371Z","pid":14896,"hostname":"DESKTOP-PP7CNM2","msg":"End of node method closeAllBrowsers"}
